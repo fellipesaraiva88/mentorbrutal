@@ -1,0 +1,7 @@
+{
+  "name": "Saraiva - Brutal Mentor AI",
+  "description": "A voice-based mentoring application powered by the Gemini Live API, featuring a 'brutal mentor' persona and a real-time analysis dashboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
